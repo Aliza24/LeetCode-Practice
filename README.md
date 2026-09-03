@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Aliza24/LeetCode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aliza24/LeetCode-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/Aliza24/LeetCode-Practice/tree/master/0912-sort-an-array) |
+| [1207-unique-number-of-occurrences](https://github.com/Aliza24/LeetCode-Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aliza24/LeetCode-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aliza24/LeetCode-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Aliza24/LeetCode-Practice/tree/master/0567-permutation-in-string) |
+| [1207-unique-number-of-occurrences](https://github.com/Aliza24/LeetCode-Practice/tree/master/1207-unique-number-of-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
