@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Aliza24/LeetCode-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Aliza24/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Aliza24/LeetCode-Practice/tree/master/0231-power-of-two) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Aliza24/LeetCode-Practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Simulation
 |  |
 | ------- |
