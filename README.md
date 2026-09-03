@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Aliza24/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aliza24/LeetCode-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aliza24/LeetCode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/Aliza24/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0456-132-pattern](https://github.com/Aliza24/LeetCode-Practice/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/Aliza24/LeetCode-Practice/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/Aliza24/LeetCode-Practice/tree/master/0503-next-greater-element-ii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Aliza24/LeetCode-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/Aliza24/LeetCode-Practice/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/Aliza24/LeetCode-Practice/tree/master/0148-sort-list) |
+| [0283-move-zeroes](https://github.com/Aliza24/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Aliza24/LeetCode-Practice/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Aliza24/LeetCode-Practice/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Aliza24/LeetCode-Practice/tree/master/0567-permutation-in-string) |
