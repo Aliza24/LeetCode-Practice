@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Aliza24/LeetCode-Practice/tree/master/0048-rotate-image) |
 | [0096-unique-binary-search-trees](https://github.com/Aliza24/LeetCode-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Aliza24/LeetCode-Practice/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Aliza24/LeetCode-Practice/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
@@ -233,4 +234,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aliza24/LeetCode-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Aliza24/LeetCode-Practice/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Aliza24/LeetCode-Practice/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
