@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Aliza24/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Aliza24/LeetCode-Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Aliza24/LeetCode-Practice/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Aliza24/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Aliza24/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Aliza24/LeetCode-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0148-sort-list](https://github.com/Aliza24/LeetCode-Practice/tree/master/0148-sort-list) |
 | [0443-string-compression](https://github.com/Aliza24/LeetCode-Practice/tree/master/0443-string-compression) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Aliza24/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aliza24/LeetCode-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aliza24/LeetCode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/Aliza24/LeetCode-Practice/tree/master/0173-binary-search-tree-iterator) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Aliza24/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aliza24/LeetCode-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0456-132-pattern](https://github.com/Aliza24/LeetCode-Practice/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Aliza24/LeetCode-Practice/tree/master/0503-next-greater-element-ii) |
@@ -203,5 +207,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Aliza24/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
 | [0096-unique-binary-search-trees](https://github.com/Aliza24/LeetCode-Practice/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
