@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Aliza24/LeetCode-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Aliza24/LeetCode-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Aliza24/LeetCode-Practice/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/Aliza24/LeetCode-Practice/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aliza24/LeetCode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/Aliza24/LeetCode-Practice/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Aliza24/LeetCode-Practice/tree/master/0912-sort-an-array) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Aliza24/LeetCode-Practice/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Aliza24/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [1009-complement-of-base-10-integer](https://github.com/Aliza24/LeetCode-Practice/tree/master/1009-complement-of-base-10-integer) |
 ## Recursion
