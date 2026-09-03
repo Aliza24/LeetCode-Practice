@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Aliza24/LeetCode-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aliza24/LeetCode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/Aliza24/LeetCode-Practice/tree/master/0493-reverse-pairs) |
 ## Matrix
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Aliza24/LeetCode-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/Aliza24/LeetCode-Practice/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -78,4 +80,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Aliza24/LeetCode-Practice/tree/master/0493-reverse-pairs) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Aliza24/LeetCode-Practice/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Aliza24/LeetCode-Practice/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Aliza24/LeetCode-Practice/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
