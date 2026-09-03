@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Aliza24/LeetCode-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0113-path-sum-ii](https://github.com/Aliza24/LeetCode-Practice/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aliza24/LeetCode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/Aliza24/LeetCode-Practice/tree/master/0173-binary-search-tree-iterator) |
 ## Design
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Aliza24/LeetCode-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0113-path-sum-ii](https://github.com/Aliza24/LeetCode-Practice/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aliza24/LeetCode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/Aliza24/LeetCode-Practice/tree/master/0173-binary-search-tree-iterator) |
 ## Iterator
@@ -174,5 +176,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/Aliza24/LeetCode-Practice/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aliza24/LeetCode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Aliza24/LeetCode-Practice/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
