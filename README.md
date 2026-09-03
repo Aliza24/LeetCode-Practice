@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Aliza24/LeetCode-Practice/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aliza24/LeetCode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/Aliza24/LeetCode-Practice/tree/master/0173-binary-search-tree-iterator) |
+| [0199-binary-tree-right-side-view](https://github.com/Aliza24/LeetCode-Practice/tree/master/0199-binary-tree-right-side-view) |
 ## Design
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Aliza24/LeetCode-Practice/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aliza24/LeetCode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/Aliza24/LeetCode-Practice/tree/master/0173-binary-search-tree-iterator) |
+| [0199-binary-tree-right-side-view](https://github.com/Aliza24/LeetCode-Practice/tree/master/0199-binary-tree-right-side-view) |
 ## Iterator
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Aliza24/LeetCode-Practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Aliza24/LeetCode-Practice/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aliza24/LeetCode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0199-binary-tree-right-side-view](https://github.com/Aliza24/LeetCode-Practice/tree/master/0199-binary-tree-right-side-view) |
 ## Backtracking
 |  |
 | ------- |
@@ -189,4 +192,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Aliza24/LeetCode-Practice/tree/master/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/Aliza24/LeetCode-Practice/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
