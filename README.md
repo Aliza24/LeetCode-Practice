@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Aliza24/LeetCode-Practice/tree/master/0048-rotate-image) |
+| [0096-unique-binary-search-trees](https://github.com/Aliza24/LeetCode-Practice/tree/master/0096-unique-binary-search-trees) |
 ## Simulation
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Aliza24/LeetCode-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Aliza24/LeetCode-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Aliza24/LeetCode-Practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Aliza24/LeetCode-Practice/tree/master/0113-path-sum-ii) |
@@ -162,11 +164,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Aliza24/LeetCode-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Aliza24/LeetCode-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Aliza24/LeetCode-Practice/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Aliza24/LeetCode-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Aliza24/LeetCode-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Aliza24/LeetCode-Practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Aliza24/LeetCode-Practice/tree/master/0113-path-sum-ii) |
@@ -193,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/Aliza24/LeetCode-Practice/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Aliza24/LeetCode-Practice/tree/master/0199-binary-tree-right-side-view) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Aliza24/LeetCode-Practice/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
