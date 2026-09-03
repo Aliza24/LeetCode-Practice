@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aliza24/LeetCode-Practice/tree/master/0054-spiral-matrix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Aliza24/LeetCode-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,10 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Aliza24/LeetCode-Practice/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Aliza24/LeetCode-Practice/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aliza24/LeetCode-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Aliza24/LeetCode-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aliza24/LeetCode-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Aliza24/LeetCode-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Hash Table
 |  |
 | ------- |
