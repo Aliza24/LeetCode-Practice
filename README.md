@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Aliza24/LeetCode-Practice/tree/master/0096-unique-binary-search-trees) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Aliza24/LeetCode-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Aliza24/LeetCode-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Aliza24/LeetCode-Practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Aliza24/LeetCode-Practice/tree/master/0113-path-sum-ii) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Aliza24/LeetCode-Practice/tree/master/0096-unique-binary-search-trees) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Aliza24/LeetCode-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Aliza24/LeetCode-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Aliza24/LeetCode-Practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Aliza24/LeetCode-Practice/tree/master/0113-path-sum-ii) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Aliza24/LeetCode-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Aliza24/LeetCode-Practice/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Aliza24/LeetCode-Practice/tree/master/0199-binary-tree-right-side-view) |
 ## Dynamic Programming
