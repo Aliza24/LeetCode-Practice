@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Aliza24/LeetCode-Practice/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Aliza24/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aliza24/LeetCode-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0189-rotate-array](https://github.com/Aliza24/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aliza24/LeetCode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Aliza24/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0456-132-pattern](https://github.com/Aliza24/LeetCode-Practice/tree/master/0456-132-pattern) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Aliza24/LeetCode-Practice/tree/master/0048-rotate-image) |
 | [0096-unique-binary-search-trees](https://github.com/Aliza24/LeetCode-Practice/tree/master/0096-unique-binary-search-trees) |
+| [0189-rotate-array](https://github.com/Aliza24/LeetCode-Practice/tree/master/0189-rotate-array) |
 ## Simulation
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Aliza24/LeetCode-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/Aliza24/LeetCode-Practice/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/Aliza24/LeetCode-Practice/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/Aliza24/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Aliza24/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Aliza24/LeetCode-Practice/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Aliza24/LeetCode-Practice/tree/master/0443-string-compression) |
