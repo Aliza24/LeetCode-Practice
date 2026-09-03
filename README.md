@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Aliza24/LeetCode-Practice/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Aliza24/LeetCode-Practice/tree/master/0048-rotate-image) |
 | [0096-unique-binary-search-trees](https://github.com/Aliza24/LeetCode-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Aliza24/LeetCode-Practice/tree/master/0189-rotate-array) |
