@@ -8,15 +8,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Aliza24/LeetCode-Practice/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Aliza24/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aliza24/LeetCode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/Aliza24/LeetCode-Practice/tree/master/0493-reverse-pairs) |
 ## Binary Search
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Aliza24/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aliza24/LeetCode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/Aliza24/LeetCode-Practice/tree/master/0493-reverse-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aliza24/LeetCode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/Aliza24/LeetCode-Practice/tree/master/0493-reverse-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -55,4 +58,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Aliza24/LeetCode-Practice/tree/master/0567-permutation-in-string) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Aliza24/LeetCode-Practice/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Aliza24/LeetCode-Practice/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Aliza24/LeetCode-Practice/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Aliza24/LeetCode-Practice/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Aliza24/LeetCode-Practice/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
