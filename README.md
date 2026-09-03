@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Aliza24/LeetCode-Practice/tree/master/0023-merge-k-sorted-lists) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Aliza24/LeetCode-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Aliza24/LeetCode-Practice/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aliza24/LeetCode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/Aliza24/LeetCode-Practice/tree/master/0493-reverse-pairs) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Aliza24/LeetCode-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Aliza24/LeetCode-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Aliza24/LeetCode-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Aliza24/LeetCode-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aliza24/LeetCode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0148-sort-list](https://github.com/Aliza24/LeetCode-Practice/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Aliza24/LeetCode-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aliza24/LeetCode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/Aliza24/LeetCode-Practice/tree/master/0173-binary-search-tree-iterator) |
 ## Design
@@ -156,10 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Aliza24/LeetCode-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Aliza24/LeetCode-Practice/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Aliza24/LeetCode-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aliza24/LeetCode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/Aliza24/LeetCode-Practice/tree/master/0173-binary-search-tree-iterator) |
 ## Iterator
