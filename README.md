@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aliza24/LeetCode-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0173-binary-search-tree-iterator](https://github.com/Aliza24/LeetCode-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0456-132-pattern](https://github.com/Aliza24/LeetCode-Practice/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Aliza24/LeetCode-Practice/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aliza24/LeetCode-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -141,4 +142,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aliza24/LeetCode-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+## Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Aliza24/LeetCode-Practice/tree/master/0173-binary-search-tree-iterator) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Aliza24/LeetCode-Practice/tree/master/0173-binary-search-tree-iterator) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Aliza24/LeetCode-Practice/tree/master/0173-binary-search-tree-iterator) |
+## Binary Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Aliza24/LeetCode-Practice/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Aliza24/LeetCode-Practice/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
