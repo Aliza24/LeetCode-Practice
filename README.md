@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Aliza24/LeetCode-Practice/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Aliza24/LeetCode-Practice/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aliza24/LeetCode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/Aliza24/LeetCode-Practice/tree/master/0493-reverse-pairs) |
 ## Matrix
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Aliza24/LeetCode-Practice/tree/master/0148-sort-list) |
 | [0443-string-compression](https://github.com/Aliza24/LeetCode-Practice/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Aliza24/LeetCode-Practice/tree/master/0567-permutation-in-string) |
 ## String
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Aliza24/LeetCode-Practice/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Aliza24/LeetCode-Practice/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/Aliza24/LeetCode-Practice/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Aliza24/LeetCode-Practice/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Aliza24/LeetCode-Practice/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -92,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Aliza24/LeetCode-Practice/tree/master/0023-merge-k-sorted-lists) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Aliza24/LeetCode-Practice/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
