@@ -247,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Aliza24/LeetCode-Practice/tree/master/0231-power-of-two) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Aliza24/LeetCode-Practice/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
